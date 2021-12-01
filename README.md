@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋 i’m amar 
 
-
-**amarsingh5536/amarsingh5536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+3+ year of experience in python with working in MNC.
+My expertise are in below technology as a full stack developer:
+- Python
+- Framework: Django, Flask, DRF
+- Databases: PostgreSQL, MySQL, MongoDB
+- Frontend: HTML, CSS, JavaScript, Angular (BL), Vue.js.
+- Others: Odoo13, xml,  Redis, Docker, SQLalchemy, scrapping, GitHub, Jira, Slack.
+- Libraries: Numpy, Pandas, Matploalib, beautifulsoup.
+- AWS, Lambda function, EC2.
+- Motivation
+fb- amarthakurofficial
+insta- amarthakurofficial
 
