@@ -7,7 +7,7 @@ My expertise are in below technology as a full stack developer:
 - Framework: Django, Flask, DRF
 - Databases: PostgreSQL, MySQL, MongoDB
 - Frontend: HTML, CSS, JavaScript, Angular (BL), Vue.js.
-- Others: Odoo13, xml,  Redis, Docker, SQLalchemy, scrapping, GitHub, Jira, Slack.
+- Others: JSON, xml,  Redis, Docker, SQLalchemy, scrapping, GitHub, Jira, Slack.
 - Libraries: Numpy, Pandas, Matploalib, beautifulsoup.
 - AWS, Lambda function, EC2.
 
