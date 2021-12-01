@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">A passionate python developer from India</h3>
+<!---<h3 align="center">A passionate python developer from India</h3>-->
 
 3+ year of experience in python with working in MNC.
 My expertise are in below technology as a full stack developer:
@@ -10,7 +10,6 @@ My expertise are in below technology as a full stack developer:
 - Others: Odoo13, xml,  Redis, Docker, SQLalchemy, scrapping, GitHub, Jira, Slack.
 - Libraries: Numpy, Pandas, Matploalib, beautifulsoup.
 - AWS, Lambda function, EC2.
-- Motivation
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsingh5536&label=Profile%20views&color=0e75b6&style=flat" alt="amarsingh5536" /> </p>
