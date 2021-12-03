@@ -10,6 +10,7 @@ My expertise are in below technology as a full stack developer:
 - Others: JSON, xml,  Redis, Docker, SQLalchemy, scrapping, GitHub, Jira, Slack.
 - Libraries: Numpy, Pandas, Matploalib, beautifulsoup.
 - AWS, Lambda function, EC2.
+- Resume:<a href="https://docs.google.com/document/d/155jJsLx4bU3C3hMAcsM-vBVpOzgR27jM/edit?usp=sharing&ouid=103452501153083892677&rtpof=true&sd=true">Download</a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsingh5536&label=Profile%20views&color=0e75b6&style=flat" alt="amarsingh5536" /> </p>
